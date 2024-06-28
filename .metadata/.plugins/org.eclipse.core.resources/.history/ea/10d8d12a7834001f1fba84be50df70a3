@@ -1,0 +1,8 @@
+package com.security.jwt.example.SpringSecurityJwtDemo.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfig {
+
+}

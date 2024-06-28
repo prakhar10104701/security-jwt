@@ -1,0 +1,5 @@
+package com.security.jwt.example.SpringSecurityJwtDemo.models;
+
+public class JwtRequest {
+
+}
